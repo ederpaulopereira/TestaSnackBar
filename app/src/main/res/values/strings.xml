@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestaSnackBar</string>
+    <string name="msg_btn">Mostrar SnackBar</string>
+    <string name="msg_btn_action">Snack com action</string>
+</resources>
